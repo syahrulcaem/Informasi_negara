@@ -9,7 +9,7 @@ LONG_DESCRIPTION = (this_directory / 'README.md').read_text()
 
 # Setting up
 setup(
-    name="country_info",
+    name="country_007info",
     version=VERSION,
     author="scaem007",
     author_email="<syahrulromadhonmuhamamd@gmail.com>",
